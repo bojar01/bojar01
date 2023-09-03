@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bojar01
-- 👀 I’m interested in Ia, Web , Crypto 
-- 🌱 I’m currently learning Html / Css / Javascript / NodeJS / Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Developpement / Web App / Application 
+- 🌱 I’m currently learning Html / Css / Javascript / NodeJS / Php / Symfony / VueJS / React / React Native
+- 📫 How to reach me ...? Not reach me on this canal
 
 <!---
 bojar01/bojar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
