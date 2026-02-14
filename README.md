@@ -1,20 +1,20 @@
-# Hi, I'm Bojar 👋
-## 👨‍💻 About Me
-I'm a junior developer with two years of experience, passionate about technology since I was fourteen. After years of exploring tech as a hobby, I decided to make it my career — and now I’m living the life I envisioned!
+# 👨‍💻 About Me
 
-## 🔧 My Skills
-I code in various languages, including JavaScript, Java, PHP, Python, and Swift. I also work with several frameworks and tools like ReactJS, React Native, Laravel, WordPress, and Docker.
+- SaaS builder & Full-Stack Engineer
+- 2 years of professional experience
+- Coding since 2005
+- Designing scalable systems and microservices architectures
+- Interested in AI and cloud-native technologies
+- Based in France 🇫🇷
 
-I have foundational skills in other frameworks and languages, such as Angular, Vue, and C, though they aren’t my primary focus right now.
 
-## 🎓 Certifications
-I hold certifications in:
+# 🧰 Stack
 
-- Full Stack Development
-- Application Design and Development
-- Coming soon: Management in Digital Solutions
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 
-## 🔎 Interests
-I'm especially excited about artificial intelligence and always looking to improve my skills in coding and development. In the near future, I hope to contribute to open-source projects and even launch my own.
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-Stay tuned for updates! 🚀
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) 
+
